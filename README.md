@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="mailto:jkingsonisrael@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jkingsonisrael@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-jkingsonisrael%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
