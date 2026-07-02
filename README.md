@@ -15,7 +15,7 @@
 <br>
 
 <a href="mailto:jkingsonisrael@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-jkingsonisrael%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="tel:+917305994395">
