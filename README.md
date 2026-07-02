@@ -18,10 +18,6 @@
   <img src="https://img.shields.io/badge/Gmail-jkingsonisrael%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="tel:+917305994395">
-  <img src="https://img.shields.io/badge/Phone-%2B91%207305994395-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
 <a href="https://github.com/kingson-starboy">
 <img src="https://img.shields.io/badge/GitHub-kingson--starboy-181717?style=for-the-badge&logo=github"/>
 </a>
