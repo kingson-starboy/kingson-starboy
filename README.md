@@ -106,6 +106,11 @@ Computer Science & Engineering (Cyber Security) student passionate about secure 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kingson-starboy&theme=tokyonight"/>
 
 </p>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kingson-starboy/kingson-starboy/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 <p align="center">
 
